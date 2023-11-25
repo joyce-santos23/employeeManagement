@@ -1,0 +1,56 @@
+
+body {
+    background-color: #eaeaea;
+}
+
+main{
+    margin: 2em;
+}
+
+.department {
+    display: flex;
+    padding: 2em;
+    align-items: center;
+    justify-content: end;
+    flex-wrap: wrap;
+}
+
+.department select {
+    border-radius: 5px;
+    padding: 0.3em;
+    cursor: pointer;
+    margin: .5em;
+}
+
+
+.department option {
+    text-align: center;
+}
+
+
+h2 {
+    text-align: center;
+}
+
+.card {
+    align-items: center;
+    text-align: center;
+}
+
+.card img {
+    margin-top: 1em;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.employee_editar {
+    background-color: rgb(248, 71, 31);
+    font-weight: bold;
+    border: 0;
+    border-radius: 15px;
+    width: 80px;
+}
