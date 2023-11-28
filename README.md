@@ -48,6 +48,7 @@ Para testar a funcionalidade de exclusão, navegar até a aba "home", selecionar
 
 Selecionar a opção "Excluir".
 
+
 No canto superior direito da aba "home", escolher um departamento na dropbox "departamentos" para filtrar os funcionários pelo departamento selecionado.
 
 
